@@ -1,2 +1,5 @@
 # hello-world
-Repository for testing codes
+
+Yo!
+
+First time using Github. I'm just following the tutorial.
